@@ -36,7 +36,7 @@ The structure of the test network is shown below. Each network device has been c
 
 3. Run the Mininet topology.
 
-`sudo python topo.py --behavioral-exe simple_switch --json router.json`
+`sudo python topo.py --behavioral-exe simple_switch --json p4include/router.json`
 
 4. In the Mininet console, check if ping between h1 and h2 works (it shouldn't!)
 
