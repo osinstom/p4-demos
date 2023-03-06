@@ -30,6 +30,7 @@ The structure of the test network is shown below. Each network device has been c
   <img src="images/Networks.png" />
 </p>
 
+The choice of this topology results from the following **paper[1]**
 
 ```
 .
@@ -62,3 +63,8 @@ The structure of the test network is shown below. Each network device has been c
 or `h1 ping h6` etc.
 
 5. Have a nice day!
+
+
+## Reference
+
+**[1]** Anagnostakis K G, Greenwald M B, Ryger R S. On the sensitivity of network simulation to topology[C]//Proceedings. 10th IEEE International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunications Systems. IEEE, 2002: 117-126.
