@@ -96,7 +96,7 @@ def main():
     h3 = net.get('h3')
     h3.setDefaultRoute("dev eth0 via 10.0.30.1")
 
-    print "Ready !"
+    print ("Ready !")
 
     CLI(net)
 
